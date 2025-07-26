@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This project highlights my journey as 
 - Git & GitHub
 
 ## 🔗 Live Website
-[Visit Now](adityayadav-codes)
+[Visit Now](https://github.com/adityayadav-codes/my-portfolio.git)
 
 ---
 
