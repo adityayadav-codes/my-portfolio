@@ -8,8 +8,7 @@ Welcome to my personal portfolio website! This project highlights my journey as 
 - 📬 Contact Information  
 
 ## 💻 Technologies Used
-- HTML5 & CSS3  
-- JavaScript  
+- HTML5 & CSS3    
 - Responsive Web Design  
 - Git & GitHub
 
